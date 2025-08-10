@@ -1,1 +1,2 @@
-Want a site like this mediathatsells.com built and hosted for free on Github? Email me at Josh@mediathatsells.com with the Subject: "GITHUB - BUILD MY WEBSITE" with your ideas or just DM me <a href="instagram.com/joshdavis10x" >@JoshDavis10X </a>
+<p>Want a site like <strong><a href="https://mediathatsells.com" target="_blank" rel="noopener">MediaThatSells.com</a></strong> built and hosted for free on GitHub?</p>
+<p>📩 Email me at <a href="mailto:Josh@MediaThatSells.com?subject=GITHUB%20-%20BUILD%20MY%20WEBSITE">Josh@MediaThatSells.com</a> with the subject <strong>"GITHUB - BUILD MY WEBSITE"</strong> and your ideas — or DM me on <a href="https://instagram.com/joshdavis10x" target="_blank" rel="noopener">@JoshDavis10X</a>.</p>
